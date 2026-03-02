@@ -5,4 +5,4 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"
-id = "node"
+id = "4dd299c1d9a5431384b38c4303979549"
